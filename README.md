@@ -1,6 +1,6 @@
 # Discord Automation Bot
 
-A simple Discord automation tool.
+A simple Discord raider tool.
 
 ## Setup
 
