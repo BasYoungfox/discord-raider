@@ -1,4 +1,4 @@
-# Discord Automation Bot
+# Discord Raider Script
 
 A simple Discord raider tool.
 
